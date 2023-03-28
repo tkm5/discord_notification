@@ -1,0 +1,7 @@
+#setting files
+.DS_Store
+.idea/
+.tmp.driveupload
+
+#text files
+secret.py
